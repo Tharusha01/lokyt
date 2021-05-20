@@ -9,8 +9,8 @@
         "JE Bots"
     ],
     "website": "https://infinityje.com",
-    "repository": "https://github.com/ImJanindu/AnyDL-Bot",
-    "success_url": "https://t.me/Infinity_BOTs",
+    "repository": "https://github.com/Tharusha01/loky",
+    "success_url": "https://t.me/MovieZoonlk",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
